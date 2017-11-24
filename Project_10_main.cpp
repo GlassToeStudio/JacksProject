@@ -52,4 +52,5 @@ int main()
         date1.WriteNameFormat();
         cout << string(40,'*') << endl;
     }
+    system("pause");
 }
